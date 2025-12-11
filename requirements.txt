@@ -1,0 +1,13 @@
+# Core RAG components - Updated for Python 3.12
+sentence-transformers>=2.2.2
+chromadb>=0.4.22
+numpy>=1.26.0
+
+# Django integration
+django>=4.2.7
+
+# For local LLM (optional)
+requests>=2.31.0
+
+# Text processing
+python-dateutil>=2.8.2
