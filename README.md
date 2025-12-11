@@ -172,12 +172,12 @@ curl http://localhost:8000/tickets/rag/stats/
 
 The system understands semantic queries:
 
-✅ "Show me high priority bugs"
-✅ "What are Jane's open tickets?"
-✅ "Email issues from last week"
-✅ "Performance problems"
-✅ "Mobile app crashes"
-✅ "Tickets assigned to bob.wilson"
+- "Show me high priority bugs"
+- "What are Jane's open tickets?"
+- "Email issues from last week"
+- "Performance problems"
+- "Mobile app crashes"
+- "Tickets assigned to bob.wilson"
 
 ## Configuration
 
